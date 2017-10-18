@@ -4,6 +4,7 @@ My name is Colton Burdick. I am currently 24 years old. My credentials can be fo
 - [My LinkedIn](https://www.linkedin.com/in/colton-burdick-88331311b/)
 
 
+
 ## Tamagolfi
 - **Languages Used:** JavaScript, HTML5, CSS
 - **Development Period:** September 2017 - Present
@@ -13,6 +14,7 @@ My name is Colton Burdick. I am currently 24 years old. My credentials can be fo
 Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. The game is still a work in progress, and lacks many features I plan on such as more characters, more courses, matches against AI, online tournaments (utilizing a custom web API), and replays. However, in its current state, the game is still technically playable.
 
 
+
 ## TamaHotel
 - **Languages Used**: JavaScript, HTML5, CSS
 - **Development Period**: April 2017 - May 2017
@@ -20,6 +22,7 @@ Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a
 - [Repository](https://github.com/MelodytchiMuseum/tamahotel)
 
 TamaHotel is a game primarily utilizing JavaScript and the HTML5 canvas. It is an easy game in which the player takes care of their hotel guests. This game was developed as the final project for an Advanced Web Design class.
+
 
 
 ## "Mero Game"
@@ -39,12 +42,15 @@ This nameless game primarily utilizes JavaScript and the HTML5 canvas. It featur
 This SQL database was created as my term project for a Database Systems class. Though it was a group project, I myself had planned out the database and laid down most of the groundwork. There are also 3 queries at the end of the file that I had developed per the project requirements.
 
 
+
 ## Awesomacro
 - **Languages Used**: C#
 - **Development Period**: February 2016
 - [Repository](https://github.com/MelodytchiMuseum/awesomacro)
 
 This is a text macro I had developed in my spare time for a specific game. The macro utilizes Michael Noonan's InputSimulator library.
+
+
 
 ## Colton's Castle
 - **Languages used**: HTML, CSS
@@ -55,12 +61,14 @@ This is a text macro I had developed in my spare time for a specific game. The m
 This is a very simple HTML website that utilized CSS to keep the style consistent between pages. It was developed as a midterm project for a Web Design class.
 
 
+
 ## Risk Map
 - **Languages Used**: C#
 - **Development Period**: February 2014 - May 2014
 - [Repository](https://github.com/MelodytchiMuseum/riskmap)
 
 This is my contribution to the term project for a Computer Science class I had taken. The entire class worked together on one big project: a virtual version of Risk with online multiplayer. I was tasked with programming map assets, and subsequently developing the map creation program.
+
 
 
 ## Candyland
