@@ -9,6 +9,7 @@ My name is Colton Burdick. I am currently 24 years old. My credentials can be fo
 - **Development Period:** September 2017 - Present
 - [Game Page](https://investigatormelodytchi.github.io/tamagolfi/)
 - [Repository](https://github.com/InvestigatorMelodytchi/tamagolfi)
+
 Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. The game is still a work in progress, and lacks many features I plan on such as more characters, more courses, matches against AI, online tournaments (utilizing a custom web API), and replays. However, in its current state, the game is still technically playable.
 
 
@@ -17,6 +18,7 @@ Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a
 - **Development Period**: April 2017 - May 2017
 - [Game Page](https://melodytchimuseum.github.io/tamahotel/)
 - [Repository](https://github.com/MelodytchiMuseum/tamahotel)
+
 TamaHotel is a game primarily utilizing JavaScript and the HTML5 canvas. It is an easy game in which the player takes care of their hotel guests. This game was developed as the final project for an Advanced Web Design class.
 
 
@@ -33,6 +35,7 @@ This nameless game primarily utilizes JavaScript and the HTML5 canvas. It featur
 - **Languages Used**: SQL
 - **Development Period**: April 2016
 - [Repository](https://github.com/MelodytchiMuseum/sqlproject)
+
 This SQL database was created as my term project for a Database Systems class. Though it was a group project, I myself had planned out the database and laid down most of the groundwork. There are also 3 queries at the end of the file that I had developed per the project requirements.
 
 
@@ -40,6 +43,7 @@ This SQL database was created as my term project for a Database Systems class. T
 - **Languages Used**: C#
 - **Development Period**: February 2016
 - [Repository](https://github.com/MelodytchiMuseum/awesomacro)
+
 This is a text macro I had developed in my spare time for a specific game. The macro utilizes Michael Noonan's InputSimulator library.
 
 ## Colton's Castle
@@ -47,6 +51,7 @@ This is a text macro I had developed in my spare time for a specific game. The m
 - **Development Period**: October 2015
 - [Website](https://melodytchimuseum.github.io/coltonscastle/index.html)
 - [Repository](https://github.com/MelodytchiMuseum/coltonscastle)
+
 This is a very simple HTML website that utilized CSS to keep the style consistent between pages. It was developed as a midterm project for a Web Design class.
 
 
@@ -54,6 +59,7 @@ This is a very simple HTML website that utilized CSS to keep the style consisten
 - **Languages Used**: C#
 - **Development Period**: February 2014 - May 2014
 - [Repository](https://github.com/MelodytchiMuseum/riskmap)
+
 This is my contribution to the term project for a Computer Science class I had taken. The entire class worked together on one big project: a virtual version of Risk with online multiplayer. I was tasked with programming map assets, and subsequently developing the map creation program.
 
 
@@ -61,4 +67,5 @@ This is my contribution to the term project for a Computer Science class I had t
 - **Languages Used**: Java
 - **Development Period**: December 2013
 - [Repository](https://github.com/MelodytchiMuseum/candyland)
+
 Candyland is simply a virtual version of the Candyland board game developed for a Computer Science class. It was created as a fallback project in case our primary project did not work out. The primary project worked out, and so this went unfinished. The coding technically makes it playable, though there are no visuals programmed so it can only be played through command line.
