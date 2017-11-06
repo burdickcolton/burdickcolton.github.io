@@ -5,13 +5,31 @@ My name is Colton Burdick. I am currently 24 years old. My credentials can be fo
 
 
 
-## Tamagolfi
+## Junkenstein's Revenge
+- **Languages Used:** C
+- **Development Period:** November 2017 - Present
+- [Repository](https://github.com/InvestigatorMelodytchi/junkensteinarduboy)
+
+This game is currently being developed for the Arduboy, an Arduino-based handheld game system. As its name implies, it is based on the Junkenstein's Revenge game mode from the game Overwatch. This version of the game is, due to the Arduboy's limited power, heavily simplified compared to the original Junkenstein's Revenge game mode.
+
+
+
+## Tamagolfi (Arduboy Version)
+- **Languages Used:** C
+- **Development Period:** November 2017 - Present
+- [Repository](https://github.com/InvestigatorMelodytchi/tamagolfiarduboy)
+
+This version of Tamagolfi is meant to be a simplified version of the HTML5 game. It is being developed specifically for the Arduboy, an Arduino-based handheld game system with very limited power. At this current moment, only some of the menu have been programmed.
+
+
+
+## Tamagolfi (Original Version)
 - **Languages Used:** JavaScript, HTML5, CSS
-- **Development Period:** September 2017 - Present
+- **Development Period:** September 2017 - Present (Hiatus)
 - [Game Page](https://investigatormelodytchi.github.io/tamagolfi/)
 - [Repository](https://github.com/InvestigatorMelodytchi/tamagolfi)
 
-Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. The game is still a work in progress, and lacks many features I plan on such as more characters, more courses, matches against AI, online tournaments (utilizing a custom web API), and replays. However, in its current state, the game is still technically playable.
+Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. The game is still a work in progress, and lacks many features I plan on such as more characters, more courses, online tournaments (utilizing a custom web API), and replays. However, in its current state, the game is still technically playable.
 
 
 
