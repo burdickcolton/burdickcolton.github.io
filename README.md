@@ -1,38 +1,38 @@
 # Welcome
-My name is Colton Burdick. I am currently 24 years old. My credentials can be found within my resume, which is linked below. This small, simple page displays brief descriptions of some of my more noteworthy programming projects.
-- [**My Technical Resume**](ColtonBurdickTechnicalResume.pdf)
+My name is Colton Burdick. I am currently 26 years old. My credentials can be found within my resume, which is linked below. This small, simple page displays brief descriptions of some of my more noteworthy programming projects.
+- [**My Technical Resume**](ColtonBurdickTechnicalResume2020.pdf)
 - [My LinkedIn](https://www.linkedin.com/in/colton-burdick-88331311b/)
+
+
+
+## Where She's From
+- **Languages Used:** C
+- **Development Period:** March 2019
+- **Personal Project**
+- [Repository](https://github.com/InvestigatorMelodytchi/wsf/tree/master/WHERESHESFROM)
+
+Where She's From is an original hack-and-slash game developed specifically for the Ardubody, an Arduino-based handheld game system with very limited power. The game features 15 levels, varying enemies, and text intermissions between each level. Being my first full Arduboy game, there was a considerable amount I learned about memory management (for example, certain planned features, such as a sniper enemy, had to be cut due to memory constraints).
 
 
 
 ## Junkenstein's Revenge
 - **Languages Used:** C
-- **Development Period:** November 2017 - Present
-- **Personal Project**
+- **Development Period:** November 2017
+- **Personal Project** *(Unfinished)*
 - [Repository](https://github.com/InvestigatorMelodytchi/junkensteinarduboy)
 
-This game is currently being developed for the Arduboy, an Arduino-based handheld game system. As its name implies, it is based on the Junkenstein's Revenge game mode from the game Overwatch. This version of the game is, due to the Arduboy's limited power, heavily simplified compared to the original Junkenstein's Revenge game mode. Only some of the menus have been programmed thus far.
-
-
-
-## Tamagolfi (Arduboy Version)
-- **Languages Used:** C
-- **Development Period:** November 2017 - Present
-- **Personal Project**
-- [Repository](https://github.com/InvestigatorMelodytchi/tamagolfiarduboy)
-
-This version of Tamagolfi is meant to be a simplified version of the HTML5 game. It is being developed specifically for the Arduboy, an Arduino-based handheld game system with very limited power. At this current moment, only some of the menus have been programmed.
+As its name implies, this was based on the Junkenstein's Revenge game mode from the game Overwatch. It was being developed for the Arduboy as well. Only the menus had been programmed; development stopped before any gameplay was worked on.
 
 
 
 ## Tamagolfi (Original Version)
 - **Languages Used:** JavaScript, HTML5, CSS
-- **Development Period:** September 2017 - Present (Hiatus)
-- **Personal Project**
+- **Development Period:** September 2017
+- **Personal Project** *(Unfinished)*
 - [Game Page](https://investigatormelodytchi.github.io/tamagolfi/)
 - [Repository](https://github.com/InvestigatorMelodytchi/tamagolfi)
 
-Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. The game is still a work in progress, and lacks many features I plan on such as more characters, more courses, online tournaments (utilizing a custom web API), and replays. However, in its current state, the game is still technically playable.
+Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. Though the game is technically unfinished, it is still playable.
 
 
 
