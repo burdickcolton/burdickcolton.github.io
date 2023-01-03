@@ -4,6 +4,16 @@ My name is Colton Burdick. I am currently 29 years old. My credentials can be fo
 
 
 
+## Counterpact Lobby Server
+- **Languages Used:** C#
+- **Development Period:** March 2022
+- **Personal Project**
+- [Repository]()
+
+The Counterpact Lobby Server was developed for a game I am currently working on in my spare time. The server serves little function on its own, and must work with HTTP requests sent by the game. The lobby server handles game server registration, as well as returning a list of servers to players who view the server browser in-game.
+
+
+
 ## Where She's From
 - **Languages Used:** C
 - **Development Period:** March 2019
