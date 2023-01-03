@@ -6,7 +6,7 @@ My name is Colton Burdick. I am currently 29 years old. My credentials can be fo
 
 ## Counterpact Lobby Server
 - **Languages Used:** C#
-- **Development Period:** March 2022
+- **Development Period:** April 2022
 - **Personal Project**
 - [Repository](https://github.com/InvestigatorMelodytchi/cpactlobby)
 
