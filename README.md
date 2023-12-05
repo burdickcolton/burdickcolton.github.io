@@ -1,6 +1,6 @@
 # Welcome
-My name is Colton Burdick. I am currently 29 years old. My credentials can be found within my resume, which is linked below. This small, simple page displays brief descriptions of some of my more noteworthy programming projects.
-- [**Resume**](Burdick_Colton_Resume_05_2023.pdf)
+My name is Colton Burdick. I am currently 30 years old. My credentials can be found within my resume, which is linked below. This small, simple page displays brief descriptions of some of my more noteworthy programming projects.
+- [**Resume**](Burdick_Colton_Resume_12_2023.pdf)
 
 
 
