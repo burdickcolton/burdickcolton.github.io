@@ -1,6 +1,6 @@
 # Welcome
 My name is Colton Burdick. I am currently 30 years old. My credentials can be found within my resume, which is linked below. This small, simple page displays brief descriptions of some of my more noteworthy programming projects.
-- [**Resume**](Burdick_Colton_Resume_12_2023.pdf)
+- [**Resume**](Colton-Burdick.pdf)
 
 
 
@@ -8,7 +8,7 @@ My name is Colton Burdick. I am currently 30 years old. My credentials can be fo
 - **Languages Used:** C#
 - **Development Period:** April 2022
 - **Personal Project**
-- [Repository](https://github.com/InvestigatorMelodytchi/cpactlobby)
+- [Repository](https://github.com/burdickcolton/cpactlobby)
 
 The Counterpact Lobby Server was developed for a game I am currently working on in my spare time. The server serves little function on its own, and must work with HTTP requests sent by the game. The lobby server handles game server registration, as well as returning a list of servers to players who view the server browser in-game.
 
@@ -18,7 +18,7 @@ The Counterpact Lobby Server was developed for a game I am currently working on 
 - **Languages Used:** C
 - **Development Period:** March 2019
 - **Personal Project**
-- [Repository](https://github.com/InvestigatorMelodytchi/wsf/tree/master/WHERESHESFROM)
+- [Repository](https://github.com/burdickcolton/wsf/tree/master/WHERESHESFROM)
 
 Where She's From is an original hack-and-slash game developed specifically for the Ardubody, an Arduino-based handheld game system with very limited power. The game features 15 levels, varying enemies, and text intermissions between each level. Being my first full Arduboy game, there was a considerable amount I learned about memory management (for example, certain planned features, such as a sniper enemy, had to be cut due to memory constraints).
 
@@ -28,8 +28,8 @@ Where She's From is an original hack-and-slash game developed specifically for t
 - **Languages Used:** JavaScript, HTML5, CSS
 - **Development Period:** September 2017
 - **Personal Project** *(Unfinished)*
-- [Game Page](https://investigatormelodytchi.github.io/tamagolfi/)
-- [Repository](https://github.com/InvestigatorMelodytchi/tamagolfi)
+- [Game Page](https://burdickcolton.github.io/tamagolfi/)
+- [Repository](https://github.com/burdickcolton/tamagolfi)
 
 Tamagolfi is a game primarily utilizing JavaScript and the HTML5 canvas. It is a simplified golf game with an emphasis on planning the shot trajectory well. Though the game is technically unfinished, it is still playable.
 
