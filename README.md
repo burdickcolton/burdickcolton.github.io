@@ -4,13 +4,23 @@ My name is Colton Burdick. I am currently 30 years old. My credentials can be fo
 
 
 
+## Database Backup Utility
+- **Languages Used:** C#
+- **Development Period:** December 2023
+- **Personal Project**
+- [Repository](https://github.com/burdickcolton/Database-Backup-Utility)
+
+The Database Backup Utility is a very simple program used solely to create hourly backups of a specified database file. Technically speaking, it can work with any filetype, but it was developed for an SQLite database file on a game server for a game I developed in my spare time.
+
+
+
 ## Counterpact Lobby Server
 - **Languages Used:** C#
 - **Development Period:** April 2022
 - **Personal Project**
 - [Repository](https://github.com/burdickcolton/cpactlobby)
 
-The Counterpact Lobby Server was developed for a game I am currently working on in my spare time. The server serves little function on its own, and must work with HTTP requests sent by the game. The lobby server handles game server registration, as well as returning a list of servers to players who view the server browser in-game.
+The Counterpact Lobby Server was developed for a game I developed in my spare time. The server serves little function on its own, and must work with HTTP requests sent by the game. The lobby server handles game server registration, as well as returning a list of servers to players who view the server browser in-game.
 
 
 
